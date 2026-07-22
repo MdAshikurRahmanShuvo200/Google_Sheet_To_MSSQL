@@ -1,0 +1,11 @@
+SHEET_ID = "1XLz78LQlYdoZx8HPrwfPJ7QrNyEvqoEAb_H63gnE6sQ"
+
+GOOGLE_CREDENTIAL = "credentials.json"
+
+DB_SERVER = "LAPTOP-8VQAAFE9"
+
+DB_DATABASE = "ABC_Call_Centre"
+
+DB_USERNAME = "sa"
+
+DB_PASSWORD = "1122"
